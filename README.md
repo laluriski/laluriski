@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @laluriski
+- 👋 Hi, I’m Lalu Riski Wirendra Putra
 - 👀 I’m interested in Mathematical Algebra and Analysis
 - 🌱 I’m currently learning Chemical Graph and Algebraic Graph Theory
 - 💞️ I’m looking to collaborate on research team
