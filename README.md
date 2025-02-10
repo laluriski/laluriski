@@ -3,8 +3,11 @@
 - 🌱 I’m currently learning Chemical Graph and Algebraic Graph Theory
 - 💞️ I’m looking to collaborate on research team
 - 📫 Text me if you want to make a colaboration
-- 😄 Pronouns: He
-- ⚡ Fun fact: I'm very like strawberry
+- 💼 Open to freelance work related to LaTeX 
+
+
+🚀 Looking for someone to format your LaTeX document? Let's collaborate!  
+📩 Contact me at: laluriski04@gmail.com
 
 <!---
 laluriski/laluriski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
